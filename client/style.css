@@ -26,8 +26,7 @@ body {
   flex: 1;
   width: 100vw;
   height: 100vh;
-  overflow-y: scroll;
-
+  overflow-y: auto;
   display: flex;
   flex-direction: column;
   gap: 10px;
