@@ -14,6 +14,8 @@ html {
 
 body {
   background: #343541;
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
 
 }
 
@@ -51,9 +53,9 @@ body {
 }
 
 /* hides scrollbar */
-#chat_container::-webkit-scrollbar {
-  display: none;
-}
+/*#chat_container::-webkit-scrollbar {*/
+/*  display: none;*/
+/*}*/
 
 .wrapper {
   width: 100%;
