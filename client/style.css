@@ -20,9 +20,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  overflow-y: hidden;
-  overflow-x: hidden;
-  position: fixed;
+
 }
 
 #chat_container {
