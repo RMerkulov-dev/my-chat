@@ -84,7 +84,7 @@ body {
   height: 36px;
   border-radius: 5px;
 
-  background: #5436DA;
+  background: #e8b1b9;
 
   display: flex;
   justify-content: center;
@@ -92,7 +92,7 @@ body {
 }
 
 .ai .profile {
-  background: #10a37f;
+  background: #1f523c;
 }
 
 .profile img {
